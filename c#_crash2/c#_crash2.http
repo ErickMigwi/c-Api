@@ -1,0 +1,6 @@
+@c__crash2_HostAddress = http://localhost:5003
+
+GET {{c__crash2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
